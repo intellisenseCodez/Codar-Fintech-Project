@@ -11,7 +11,7 @@ def count_users():
     return len(data)
 
 # 2. The Total number of Unique Users (Abisola)
-
+print('a test')
 
 # 3. Average Score of all users (Pholasade)
 
