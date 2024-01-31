@@ -12,6 +12,7 @@ def count_users():
 
 # 2. The Total number of Unique Users (Abisola)
 
+
 # 3. Average Score of all users (Pholasade)
 
 # 4. The Total number of Cards (Emmanuel)
